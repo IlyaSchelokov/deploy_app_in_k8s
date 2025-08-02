@@ -1,5 +1,5 @@
 # Деплой приложения speedtest в k8s
 
-Есть приложение https://github.com/librespeed/speedtest.
+Есть приложение https://github.com/librespeed/speedtest.  
 Данный репозиторий нужно задеплоить в кубер.  
 Требуется итоговый набор манифестов и выполнение kubectl apply -f . чтобы приложение заработало.
